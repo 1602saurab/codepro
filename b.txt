@@ -1,0 +1,1 @@
+Hello , In this python class we will discuss about List . 
